@@ -18,7 +18,10 @@ if ( !define('ABSPATH', dirname(__FILE__) . '/'));
 if ( !define('BASEURL', '/socianekta-php/'));
 
 /** Caminho do arquivo  de banco de dados */
-if ( !define('DBAPI', ABSPATH . 'inc/database.php'));
+if ( !define('DBAPI', ABSPATH . 'model/database.php'));
+
+/** Caminho do arquivo  controller*/
+if ( !define('CONTROLLER', ABSPATH . 'controller/functions.php'));
 
 /** Caminhos dos template de header e footer */
 define('HEADER_TEMPLATE', ABSPATH . 'inc/header.php');

@@ -11,7 +11,7 @@
 
 <div class="row">
     <div class="col-xs-6 col-sm3 col-md-2">
-        <a href="user/add.php" class="btn btn-primary">
+        <a href="view/add.php" class="btn btn-primary">
             <div class="row">
                 <div class="col-xs-12 text-center">
                     <i class="fa fa-plus fa-5x"></i>
@@ -23,7 +23,7 @@
         </a>
     </div>
     <div class="col-xs-6 col-sm-3 col-md-2">
-        <a href="user" class="btn btn-default">
+        <a href="view" class="btn btn-default">
             <div class="row">
                 <div class="col-xs-12 text-center">
                     <i class="fa fa-user fa-5x"></i>
